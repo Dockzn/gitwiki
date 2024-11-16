@@ -1,0 +1,28 @@
+.Repos{
+    width: 80%;
+}
+
+.Repos h3{
+    font-size: 32px;
+    color: #FAFAFA;
+}
+
+.Repos p{
+    font-size: 16px;
+    color: #fafafa89;
+    margin-bottom: 10px;
+}
+
+.Repos hr{
+    color: #FAFAFA60;
+    margin: 20px 0;
+}
+
+.Remover{
+    color: red;
+}
+
+.Remover:hover{
+    color: red;
+
+}
